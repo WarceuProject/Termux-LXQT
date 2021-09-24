@@ -29,7 +29,7 @@ echo -e """
 cd $HOME
 termux-setup-storage
 echo -e "$w[$g *$w]$c Update Upgrade Packages..."
-pkg -y update && pkg -y upgrade
+pkg update -y && pkg upgrade -y
 echo -e "$w[$g *$w]$c Installing Packages Main..."
 pkg install -y xcompmgr audacious xpdf qt5-qtbase-gtk-platformtheme qt5-qttools qt5-qtx11extras lxqt lxqt-build-tools otter-browser qgit featherpad gtk2 gtk3 python-tkinter tigervnc xorg-xhost openbox geany qt5-qtwebsockets qt5-qtxmlpatterns qt5-qtdeclarative tumbler termux-api geany-plugins xorg-xprop neofetch galculator qt5-qttools wireshark-gtk
 
