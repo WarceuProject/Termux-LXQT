@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=About Termux-Desktop
+Exec=bash %f
+Categories=Other;
+NoDisplay=true
+MimeType=application/x-shellscript
+Terminal=true
+X-KeepTerminal=false

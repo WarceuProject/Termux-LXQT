@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin
+cd $HOME
+vncserver -geometry 1058x720 -xstartup $PREFIX/bin/startlxqt

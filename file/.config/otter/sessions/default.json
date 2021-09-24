@@ -1,0 +1,176 @@
+{
+	"currentIndex": 1,
+	"title": "",
+	"windows": [
+		{
+			"currentIndex": 2,
+			"geometry": "AdnQywADAAAAAAAAAAAAAAAABDcAAAKvAAAAeAAAAIAAAAL3AAACXwAAAAACAAAABDgAAAAAAAAAGAAABDcAAAKv",
+			"toolBars": [
+				{
+					"fullScreenVisibility": "hidden",
+					"identifier": "MenuBar",
+					"normalVisibility": "visible"
+				},
+				{
+					"fullScreenVisibility": "hidden",
+					"identifier": "AddressBar",
+					"normalVisibility": "visible"
+				},
+				{
+					"fullScreenVisibility": "visible",
+					"identifier": "ProgressBar",
+					"normalVisibility": "visible"
+				},
+				{
+					"fullScreenVisibility": "hidden",
+					"identifier": "StatusBar",
+					"normalVisibility": "visible"
+				},
+				{
+					"fullScreenVisibility": "hidden",
+					"identifier": "SideBar",
+					"location": "left",
+					"normalVisibility": "hidden",
+					"row": 0
+				},
+				{
+					"fullScreenVisibility": "visible",
+					"identifier": "TabBar",
+					"location": "top",
+					"normalVisibility": "visible",
+					"row": 0
+				},
+				{
+					"fullScreenVisibility": "hidden",
+					"identifier": "BookmarksBar",
+					"location": "top",
+					"normalVisibility": "hidden",
+					"row": 1
+				},
+				{
+					"fullScreenVisibility": "hidden",
+					"identifier": "ErrorConsoleBar",
+					"location": "bottom",
+					"normalVisibility": "hidden",
+					"row": 0
+				}
+			],
+			"windows": [
+				{
+					"currentIndex": 13,
+					"history": [
+						{
+							"title": "",
+							"url": "about:start",
+							"zoom": 100
+						},
+						{
+							"title": "",
+							"url": "https://duckduckgo.com/?q=facebook&sourceid=otter&ia=web",
+							"zoom": 100
+						},
+						{
+							"title": "(5) Facebook",
+							"url": "https://web.facebook.com/?_rdc=1&_rdr",
+							"zoom": 100
+						},
+						{
+							"position": "0, 300",
+							"title": "(5) Facebook",
+							"url": "https://web.facebook.com/?_rdc=1&_rdr",
+							"zoom": 100
+						},
+						{
+							"position": "0, 132",
+							"title": "",
+							"url": "https://web.facebook.com/bookmarks",
+							"zoom": 100
+						},
+						{
+							"title": "(5) Temukan | Facebook",
+							"url": "https://web.facebook.com/pages/?category=top&ref=bookmarks",
+							"zoom": 100
+						},
+						{
+							"title": "(5) Facebook",
+							"url": "https://web.facebook.com/bookmarks",
+							"zoom": 100
+						},
+						{
+							"position": "0, 960",
+							"title": "(5) Grup | Facebook",
+							"url": "https://web.facebook.com/groups/feed/",
+							"zoom": 100
+						},
+						{
+							"position": "0, 1274",
+							"title": "(5) Cicurug Shoping (abatasa) | Grup | Facebook",
+							"url": "https://web.facebook.com/groups/892571604160852/?multi_permalinks=4281406135277365",
+							"zoom": 100
+						},
+						{
+							"position": "0, 858",
+							"title": "",
+							"url": "https://web.facebook.com/groups/1582478885265358/?multi_permalinks=1837465916433319",
+							"zoom": 100
+						},
+						{
+							"position": "0, 944",
+							"title": "",
+							"url": "https://web.facebook.com/groups/666844457221611/about",
+							"zoom": 100
+						},
+						{
+							"position": "0, 441",
+							"title": "",
+							"url": "https://web.facebook.com/groups/666844457221611/members",
+							"zoom": 100
+						},
+						{
+							"title": "Buat Grup",
+							"url": "https://web.facebook.com/groups/create/",
+							"zoom": 100
+						}
+					],
+					"options": {
+						"Search/DefaultSearchEngine": "duckduckgo"
+					},
+					"state": "maximized"
+				},
+				{
+					"currentIndex": 1,
+					"history": [
+						{
+							"title": "index",
+							"url": "file:///data/data/com.termux/files/home/projects/tes/index.html",
+							"zoom": 100
+						}
+					],
+					"options": {
+						"Search/DefaultSearchEngine": "duckduckgo"
+					},
+					"state": "maximized"
+				},
+				{
+					"currentIndex": 2,
+					"history": [
+						{
+							"title": "",
+							"url": "about:start",
+							"zoom": 100
+						},
+						{
+							"title": "",
+							"url": "https://duckduckgo.com/?q=cheome+web+store&sourceid=otter&ia=web",
+							"zoom": 100
+						}
+					],
+					"options": {
+						"Search/DefaultSearchEngine": "duckduckgo"
+					},
+					"state": "maximized"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,8 @@
+XDG_DESKTOP_DIR="$HOME/Desktop"
+XDG_DOWNLOAD_DIR="/data/data/com.termux/files/home"
+XDG_TEMPLATES_DIR="/data/data/com.termux/files/home"
+XDG_PUBLICSHARE_DIR="/data/data/com.termux/files/home"
+XDG_DOCUMENTS_DIR="/data/data/com.termux/files/home"
+XDG_MUSIC_DIR="/data/data/com.termux/files/home"
+XDG_PICTURES_DIR="$HOME/Pictures"
+XDG_VIDEOS_DIR="/data/data/com.termux/files/home"

@@ -1,0 +1,8 @@
+[Added Associations]
+application/x-shellscript=qterminal.desktop;
+application/x-desktop=qterminal.desktop;
+text/html=otter-browser.desktop;
+x-scheme-handler/http=otter-browser.desktop;
+x-scheme-handler/https=otter-browser.desktop;
+x-scheme-handler/about=otter-browser.desktop;
+x-scheme-handler/unknown=otter-browser.desktop;
