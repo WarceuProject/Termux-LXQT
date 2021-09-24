@@ -63,8 +63,8 @@ echo -e "$w[$g *$w]$c Setup All Dir..."
 ##########DONE ENJOY
    echo -e """
             $w[$g +$w ]$y Success full ✓
-            $w[$g +$w ]$y To Start:$w start-lxqt
-            $w[$g +$w ]$y To Stop:$w stop-lxqt
+            $w[$g +$w ]$y To Start:$w bash start-lxqt
+            $w[$g +$w ]$y To Stop:$w bash stop-lxqt
             $w[$g +$w ]$y To Connect Your PC via IP wifi:$g 192.168.43.1:5901
             $w[$c ENJOYYY... ^_^$w ]
             """
