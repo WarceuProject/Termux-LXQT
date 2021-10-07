@@ -14,9 +14,9 @@ export HISTCONTROL=ignoreboth
 PROMPT_DIRTRIM=2
 #$PS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
 
-PS1='\e[1;31m┌─\e[1;37m[\e[1;31m\u\e[1;37m@\e[1;36mwarceu Hunter\e[1;37m]\e[1;31m-\e[1;37m[\e[1;34m\w\e[1;37m]
-\e[1;31m│
-\e[1;31m└─➣\e[1;33m$\e[1;32m'
+PS1=' \[\e[1;31m\]┌──\[\e[1;31m\][\[\e[1;37m\]\u\[\e[1;33m\]@\[\e[1;36m\]warceuhunter\[\e[1;31m\]]\[\e[1;31m\]-\[\e[1;31m\][\[\e[0;32m\]\w\[\e[0m\]\[\e[1;31m\]]
+ \[\e[1;31m\]└─•> \[\e[1;33m\]\$\[\e[1;32m\]'
+
 # Handles nonexistent commands.
 # If user has entered command which invokes non-available
 # utility, command-not-found will give a package suggestions.
